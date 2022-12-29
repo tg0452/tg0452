@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science, Machine Learning, Data Structures and Web Development**
 
-- 🌱 I’m currently persuing **my B.Tech in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
+- 🌱 I’m currently pursuing **my B.Tech in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
 
 - 👯 I’m looking to collaborate on **Data Science, open source Projects, Web Dev Projects**
 

@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tan_g01" target="blank"><img src="https://img.shields.io/twitter/follow/tan_g01?logo=twitter&style=for-the-badge" alt="tan_g01" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science, Machine Learning, Data Structures and Web Development**
+- 🔭 I’m currently working on **Data Science, Machine Learning, SQL,  Data Structures and Web Development**
 
 - 🌱 I’m currently pursuing **my B.Tech in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
 

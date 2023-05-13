@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning, open source Projects, Web Dev Projects**
 
-- 👨‍💻 All of my projects are available at [https://tg0452.github.io/](https://tg0452.github.io/)
+- 👨‍💻 My Personal Portfolio link [https://tg0452.github.io/](https://tg0452.github.io/)
 
 - 📫 How to reach me **Work Mail ID:- tg0452@srmist.edu.in personal Mail ID:- tanumayghosh0103@gmail.com**
 

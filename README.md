@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tg0452&label=Profile%20views&color=0e75b6&style=flat" alt="tg0452" /> </p>
 
+
 <p align="left"> <a href="https://twitter.com/tan_g01" target="blank"><img src="https://img.shields.io/twitter/follow/tan_g01?logo=twitter&style=for-the-badge" alt="tan_g01" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
 - 🌱 I’m currently persuing **my B.Tech in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning, open source Projects, Web Dev Projects**
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning, open source Projects and Web Dev Projects**
 
-- 👨‍💻 My Personal Portfolio link [https://tg0452.github.io/](https://tg0452.github.io/)
+- 👨‍💻My personal Portfolio [https://tg0452.github.io/](https://tg0452.github.io/)
 
 - 📫 How to reach me **Work Mail ID:- tg0452@srmist.edu.in personal Mail ID:- tanumayghosh0103@gmail.com**
 
@@ -35,3 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tg0452&show_icons=true&locale=en&layout=compact" alt="tg0452" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tg0452&show_icons=true&locale=en" alt="tg0452" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tg0452&" alt="tg0452" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tg0452" alt="tg0452" /></a> </p>

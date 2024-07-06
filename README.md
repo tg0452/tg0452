@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 🌱 I’m currently persuing **my B.Tech in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
+- 🌱 **B.Tech graduate in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning, open source Projects and Web Dev Projects**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning and Data Engineering open source Projects.**
 
 - 👨‍💻My personal Portfolio [https://tg0452.github.io/](https://tg0452.github.io/)
 
-- 📫 How to reach me **Work Mail ID:- tg0452@srmist.edu.in personal Mail ID:- tanumayghosh0103@gmail.com**
+- 📫 How to reach me **Mail ID:- tanumayghosh0103@gmail.com**
 
 - ⚡ Fun fact **Spotify can take me to Heaven...**
 

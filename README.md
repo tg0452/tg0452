@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanumay Ghosh</h1>
-<h3 align="center">I’m interested in Data Science, Data Analytics, AI & ML</h3>
+<h3 align="center">Aspiring Data Analyst and Business Intelligence Analytics | Cisco & IBM Certified</h3>
 
 
 

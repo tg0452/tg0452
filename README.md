@@ -37,6 +37,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tg0452&show_icons=true&locale=en" alt="tg0452" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tg0452&" alt="tg0452" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tg0452" alt="tg0452" /></a> </p>

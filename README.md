@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tan_g01" target="blank"><img src="https://img.shields.io/twitter/follow/tan_g01?logo=twitter&style=for-the-badge" alt="tan_g01" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning**
+- 🔭 I’m currently working on **Data Analytics, Data Engineering, Data Science, AI & ML**
 
 - 🌱 **B.Tech graduate in CSE with specialization in Big-Data Analytics from SRM Institute of Science and Technology.**
 
